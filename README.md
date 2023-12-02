@@ -1,6 +1,6 @@
 This is my first repository.
 <br>
-author- Deepak
+author- Deepak(deep)
 
 <!---
 deepak7712/deepak7712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
